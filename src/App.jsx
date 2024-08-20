@@ -13,12 +13,10 @@ export function App() {
         <Sidebar />
         <main>
           <Post
-          // author="Pedro Queiroz"
-          // content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, temporibus magni consequatur veniam tenetur neque optio labore cumque, aspernatur odio hic sit? Dignissimos, exercitationem tempore aperiam expedita cum doloribus. Architecto."
+          content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, temporibus magni consequatur veniam tenetur neque optio labore cumque, aspernatur odio hic sit? Dignissimos, exercitationem tempore aperiam expedita cum doloribus. Architecto."
           />
           <Post
-          // author="Lais Nunes"
-          // content="Um novo conteudo de post aqui"
+          content="Um novo conteudo de post aqui"
           />
 
         </main>
